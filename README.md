@@ -8,13 +8,6 @@ This Google Chat bot integrates Large Language Models (LLMs) using Groq, an onli
 - **Context maintenance:** Stores conversation context per user for more meaningful interactions.
 - **Multi-user support:** Can be added to Google Workspaces, where multiple users can chat with the bot simultaneously.
 
-## Setup Instructions
-
-### Prerequisites
-- A Google Cloud account with access to Google Apps Script.
-- API keys for Groq's LLM service.
-- Access to the Groq API for listing models and interacting with LLM models.
-
 ## Commands
 
 The bot supports the following commands:
