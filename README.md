@@ -28,6 +28,7 @@ Bot: *Model Information:* Model ID: gemma-7b-it ...
 
 User 2: #set gemma-13b
 Bot: Model: *gemma-13b* set against user *User 2*
+```
 
 ## Context Management
 
